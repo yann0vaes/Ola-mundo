@@ -29,3 +29,15 @@ lista dif
 - teste
 -  teste
    - teste
+## Teste de link
+[acesse o youtube](https://youtube.com)
+
+## Teste tabela
+Num|Nome|Nota
+---|---|---
+1|Yan|10
+2|Gustavo|8,5
+
+Terminou a tabela
+
+olha esse emoji 🖖
